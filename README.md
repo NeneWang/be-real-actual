@@ -2,9 +2,9 @@
 
 Submitted by: **Your Name Here**
 
-**Name of your app** is an app that ... [TODO] 
+ 
 
-Time spent: **X** hours spent in total
+Time spent: **20** hours spent in total
 
 ## Required Features
 
