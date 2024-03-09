@@ -4,7 +4,7 @@ Submitted by: **Your Name Here**
 
  
 
-Time spent: **20** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
