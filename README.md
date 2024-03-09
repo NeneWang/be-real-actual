@@ -1,4 +1,4 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Be Real*
 
 Submitted by: **Your Name Here**
 
@@ -10,7 +10,6 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users see an app icon in the home screen and a styled launch screen.
 - [x] User can register a new account
 - [x] User can log in with newly created account
 - [x] App has a feed of posts when user logs in
